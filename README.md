@@ -1,5 +1,5 @@
 # Hello World 👋
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif" />
+<img align="right" alt="GIF" src="https://im3.ezgif.com/tmp/ezgif-3-cbbb88b6f5.gif" />
 
 ### I'm Ian Castaño
 
