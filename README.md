@@ -1,5 +1,5 @@
 # Hello Everyone 🍅
-<img align="right" alt="GIF" src="https://im3.ezgif.com/tmp/ezgif-3-cbbb88b6f5.gif" />
+<img align="right" alt="GIF" src="https://i.imgur.com/aQM9Cug.gif" />
 
 ### I'm Ian Castaño
 
